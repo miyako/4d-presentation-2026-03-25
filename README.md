@@ -150,11 +150,11 @@
 
 <img width="40" height="200" alt="image26" src="https://github.com/user-attachments/assets/ca01b569-b766-4592-8aef-352736cdb2e6" />
 
-107. 新しいウィンドウタイプ
-108. ウィンドウアイコンのカスタマイズ
-109. サブフォーム内オブジェクトの段階スクロール
-110. 時間型カラムとフッターの “ヌルのときブランクにする”フォーマット
-111. 統合Webエリアの起動パラメーター
-112. 統合Webエリアの$4dオブジェクトをクラスで定義
-113. ラベルウィザードに標準フォーミュラエディターを統合
-114. ノンブロッキング印刷
+107. [新しいウィンドウタイプ](https://blog.4d.com/ja/customize-app-appearance-with-new-windows-types/) ![](https://img.shields.io/badge/20%20R5-E23089)
+108. [ウィンドウアイコンのカスタマイズ](https://blog.4d.com/ja/define-a-different-icon-for-each-window/) ![](https://img.shields.io/badge/20%20R7-E23089)
+109. [サブフォーム内オブジェクトの段階スクロール](https://blog.4d.com/ja/ux-enhanced-scrolling-behavior-in-subforms/) ![](https://img.shields.io/badge/20%20R6-E23089)
+110. [時間型カラムとフッターの “ヌルのときブランクにする”フォーマット](https://blog.4d.com/ja/listbox-blank-if-null-for-time-columns-and-footers/) ![](https://img.shields.io/badge/20%20R7-E23089)
+111. [統合Webエリアの起動パラメーター](https://blog.4d.com/ja/custom-parameters-for-initializing-embedded-web-area/) ![](https://img.shields.io/badge/20%20R6-E23089)
+112. [統合Webエリアの$4dオブジェクトをクラスで定義](https://blog.4d.com/ja/use-class-in-embedded-web-area-with-4d/) ![](https://img.shields.io/badge/20%20R9-E23089)
+113. [ラベルウィザードに標準フォーミュラエディターを統合](https://blog.4d.com/ja/formulas-in-label-wizard/) ![](https://img.shields.io/badge/20%20R9-E23089)
+114. [ノンブロッキング印刷](https://blog.4d.com/ja/non-blocking-printing/) ![](https://img.shields.io/badge/21-3B69E9)
