@@ -20,3 +20,14 @@
 10. [エンティティライフサイクルイベント](https://blog.4d.com/ja/orda-handle-an-event-driven-logic-during-database-operations/) ![](https://img.shields.io/badge/21-3B69E9)
 11. [エンティティセレクションのフィルターイベント](https://blog.4d.com/ja/orda-restrict-data-to-relevant-criteria/) ![](https://img.shields.io/badge/20%20R5-E23089) 
 12. [エンティティセレクションの歯抜けを解消](https://blog.4d.com/ja/orda-say-goodbye-to-empty-spaces-in-your-entity-selections/) ![](https://img.shields.io/badge/20%20R6-E23089)
+
+<img width="40" height="auto" alt="image17" src="https://github.com/user-attachments/assets/ae7b881a-15c8-4b87-8bea-a834d0375421" />
+
+13. [ハイブリッドデスクトップインターフェース](https://blog.4d.com/ja/build-modern-hybrid-desktop-apps-with-4d-and-qodly-pro/) ![](https://img.shields.io/badge/21-3B69E9)
+14. [カスタムコンポーネントでQodlyページを拡張](https://blog.4d.com/ja/extend-your-qodly-application-with-custom-components/) ![](https://img.shields.io/badge/20%20R8-E23089)
+15. [Qodly Studio自動セットアップ](https://blog.4d.com/ja/starting-qodly-studio-is-just-two-clicks-away/) ![](https://img.shields.io/badge/21-3B69E9)
+16. [クライアント/サーバーとQodlyでセッションを共有](https://blog.4d.com/ja/share-your-4d-remote-client-session-with-web-accesses/) ![](https://img.shields.io/badge/21-3B69E9)
+17. [国際化ツール](https://blog.4d.com/ja/localize-your-qodly-pages-a-practical-guide/) ![](https://img.shields.io/badge/21-3B69E9)
+18. [イベントレポート](https://blog.4d.com/ja/events-report-in-4d-qodly-pro-see-every-interactions-at-a-glance/) ![](https://img.shields.io/badge/21-3B69E9)
+19. [デザイン画面のズーム](https://blog.4d.com/ja/4d-qodly-pro-page-zoom-controls/) ![](https://img.shields.io/badge/21-3B69E9)
+
