@@ -105,10 +105,10 @@
 
 <img width="40" height="200" alt="image32" src="https://github.com/user-attachments/assets/dc6baade-4e09-48bb-be4b-8e5a25356903" />
 
-71. グローバルエラーハンドリング
-72. 非推奨ランゲージに警告を表示
-73. Formオブジェクトをクラスで定義
-74. FORM EDITの改良
+71. [特定のコンパイラー警告を抑制](https://blog.4d.com/ja/customize-global-warnings-generation/) ![](https://img.shields.io/badge/20%20R6-E23089)
+72. [非推奨ランゲージに警告を表示](https://blog.4d.com/ja/warnings-on-deprecated-language-elements/) ![](https://img.shields.io/badge/20%20R9-E23089)
+73. [Formオブジェクトをクラスで定義](https://blog.4d.com/ja/empower-your-development-process-with-your-forms/) ![](https://img.shields.io/badge/20%20R8-E23089)
+74. [FORM EDITの改良](https://blog.4d.com/ja/improved-form-edit-command-access-form-objects-easily/) ![](https://img.shields.io/badge/20%20R8-E23089)
  
 <img width="40" height="360" alt="image15" src="https://github.com/user-attachments/assets/581a6528-a922-4991-bef4-9d44f1e9237b" />
 
@@ -141,12 +141,12 @@
 
 <img width="40" height="200" alt="image25" src="https://github.com/user-attachments/assets/92fdb2f4-89cd-44af-bda1-07dfe68715c5" />
 
-101. Visual Studio Codeで4Dランゲージをフォーマット表示
-102. Visual Studio Codeに4Dドキュメンテーションを表示
-103. Visual Studio Codeのワークスペースでシンタックスチェック
-104. Visual Studio CodeでTool4Dを自動ダウンロード
-105. GitHub Codespacesサポート
-106. Visual Studio Codeで4Dコードをデバッグ
+101. [Visual Studio Codeで4Dランゲージをフォーマット表示](https://blog.4d.com/ja/format-your-4d-code-in-visual-studio-code/) ![](https://img.shields.io/badge/20%20R2-E23089)
+102. [Visual Studio Codeに4Dドキュメンテーションを表示](https://blog.4d.com/ja/vs-code-extension-show-4d-documentation/) ![](https://img.shields.io/badge/20%20R3-E23089)
+103. [Visual Studio Codeのワークスペースでシンタックスチェック](https://blog.4d.com/ja/workspace-syntax-checking-in-vs-code-editor/) ![](https://img.shields.io/badge/20%20R5-E23089)
+104. [Visual Studio CodeでTool4Dを自動ダウンロード](https://blog.4d.com/ja/auto-tool4d-download-in-4d-analyzer-extension-for-vs-code/) ![](https://img.shields.io/badge/20%20R5-E23089)
+105. [GitHub Codespacesサポート](https://blog.4d.com/ja/explore-github-codespaces-possibilities-with-4d/) ![](https://img.shields.io/badge/20%20R5-E23089)
+106. [Visual Studio Codeで4Dコードをデバッグ](https://blog.4d.com/ja/debugging-4d-code-directly-in-visual-studio-code/) ![](https://img.shields.io/badge/20%20R8-E23089)
 
 <img width="40" height="200" alt="image26" src="https://github.com/user-attachments/assets/ca01b569-b766-4592-8aef-352736cdb2e6" />
 
