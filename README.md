@@ -47,3 +47,13 @@
 28. [ローカルコンポーネントの追加と削除](https://blog.4d.com/ja/adding-and-removing-github-and-local-components-made-easy/) ![](https://img.shields.io/badge/20%20R7-E23089)
 29. [名前空間を介してコンポーネント間でクラスを参照](https://blog.4d.com/ja/using-classes-across-components/) ![](https://img.shields.io/badge/20%20R6-E23089)
 30. [Mach-OバンドルアーキテクチャーのコンポーネントとApple公証](https://blog.4d.com/ja/notarization-on-macos-changes-to-component-structure/) ![](https://img.shields.io/badge/20%20R8-E23089)
+
+<img width="40" height="200" alt="image28" src="https://github.com/user-attachments/assets/54965944-8855-4fbd-b74d-234da3abed28" />
+
+31. [Gmailメールボックスとラベルの管理](https://blog.4d.com/ja/4d-netkit-get-labels-and-emails-from-gmail/) ![](https://img.shields.io/badge/21-3B69E9)
+32. [Gmail下書きの管理](https://blog.4d.com/ja/4d-netkit-append-an-email-with-gmail/) ![](https://img.shields.io/badge/20%20R5-E23089)
+33. [Microsoft 365メールプロパティの管理](https://blog.4d.com/ja/microsoft-365-update-mail-properties/) ![](https://img.shields.io/badge/21-3B69E9)
+34. [複数メールボックスの未読メッセージをカウント](https://blog.4d.com/ja/imap-api-retrieve-unread-email-counts-for-multiple-mailboxes-in-one-call/) ![](https://img.shields.io/badge/20%20R7-E23089)
+35. [Googleユーザーおよびディレクトリの情報](https://blog.4d.com/ja/4d-netkit-get-user-information-from-google/) ![](https://img.shields.io/badge/20%20R8-E23089)
+36. [GoogleおよびMicrosoft 365カレンダー](https://blog.4d.com/ja/managing-calendar-events-with-microsoft-365-or-google-in-4d-create-update-delete/) ![](https://img.shields.io/badge/20%20R10-E23089)
+37. [OAuth2認証のサポート強化とOpenID Connect](https://blog.4d.com/ja/4d-netkit-secure-openid-authentication-with-nonce-attribute/) ![](https://img.shields.io/badge/21-3B69E9)
