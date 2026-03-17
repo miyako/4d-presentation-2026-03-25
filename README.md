@@ -70,18 +70,18 @@
  
 <img width="40" height="320" alt="image19" src="https://github.com/user-attachments/assets/bb13d445-d46b-407a-b1e8-e0a0ccd1028f" />
 
-45. AIアシスタントの統合
-46. 欧州電子請求書規格に準拠
-47. セクション管理の改良
-48. ページサイズのワンステップ設定
-49. テキストボックスおよびピクチャの回り込みテキスト
-50. 表作成およびセル統合ツールの改良
-51. 表サイズの制限を廃止
-52. 空のデータソースを管理
-53. 非表示の罫線を一時的に表示
-54. フォーミュラ名の定義
-55. コマンドシンタックスの改良
-56. メール本文の表示を改善するホワイトスペース文字のオプション
+45. [AIアシスタントの統合](https://blog.4d.com/ja/discover-your-ai-powered-writing-assistant-in-4d-write-pro/) ![](https://img.shields.io/badge/20%20R9-E23089)
+46. [欧州電子請求書規格に準拠](https://blog.4d.com/ja/4d-write-pro-electronic-invoice-generation/) ![](https://img.shields.io/badge/20%20R4-E23089)
+47. [セクション管理の改良](https://blog.4d.com/ja/4d-write-pro-mastering-sections-and-subsections-with-new-functions/) ![](https://img.shields.io/badge/20%20R7-E23089)
+48. [ページサイズのワンステップ設定](https://blog.4d.com/ja/a-handy-new-4d-write-pro-attribute-wk-page-size/) ![](https://img.shields.io/badge/20%20R5-E23089)
+49. [テキストボックスおよびピクチャの回り込みテキスト](https://blog.4d.com/ja/4d-write-pro-more-display-options-for-anchored-pictures-and-text-boxes/) ![](https://img.shields.io/badge/20%20R5-E23089)
+50. [表作成およびセル統合ツールの改良](https://blog.4d.com/ja/4d-write-pro-tables-introducing-cells-merge/) ![](https://img.shields.io/badge/20%20R2-E23089)
+51. [表サイズの制限を廃止](https://blog.4d.com/ja/4d-write-pro-tables-without-limit/) ![](https://img.shields.io/badge/20%20R5-E23089)
+52. [空のデータソースを管理](https://blog.4d.com/ja/4d-write-pro-manage-empty-datasources/) ![](https://img.shields.io/badge/20%20R6-E23089)
+53. [非表示の罫線を一時的に表示](https://blog.4d.com/ja/4d-write-pro-make-hidden-table-borders-visible-temporarily/) ![](https://img.shields.io/badge/20%20R7-E23089)
+54. [フォーミュラ名の定義](https://blog.4d.com/ja/4d-write-pro-assign-names-to-formulas/) ![](https://img.shields.io/badge/20%20R3-E23089)
+55. [コマンドシンタックスの改良](https://blog.4d.com/ja/4d-write-pro-commands-optimized-again/) ![](https://img.shields.io/badge/20%20R8-E23089)
+56. [メール本文の表示を改善するホワイトスペース文字のオプション](https://blog.4d.com/ja/4d-write-pro-more-display-options-for-anchored-pictures-and-text-boxes/) ![](https://img.shields.io/badge/20%20R5-E23089)
 
 <img width="40" height="200" alt="image30" src="https://github.com/user-attachments/assets/7a6eaff6-4876-40c3-bb1e-02d62fa69fc4" />
 
