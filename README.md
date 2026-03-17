@@ -85,11 +85,11 @@
 
 <img width="40" height="200" alt="image30" src="https://github.com/user-attachments/assets/7a6eaff6-4876-40c3-bb1e-02d62fa69fc4" />
 
-57. 圧縮ファイル形式
-58. カスタム関数の改良
-59. SpreadJS 16.2アップデートに伴うリボンツールの改良
-60. エクセル書き出し/読み込みの改良
-61. カスタム関数の インポートをサポート
+57. [圧縮ファイル形式](https://blog.4d.com/ja/new-4d-view-pro-format-file-sjs/) ![](https://img.shields.io/badge/20%20R2-E23089)
+58. [カスタム関数の改良](https://blog.4d.com/ja/4d-view-pro-enhancement-of-custom-functions/) ![](https://img.shields.io/badge/20%20R5-E23089)
+59. [SpreadJS 16.2アップデートに伴うリボンツールの改良](https://blog.4d.com/ja/4d-view-pro-whats-new-in-4d-v20-r4/) ![](https://img.shields.io/badge/20%20R4-E23089)
+60. [エクセル書き出し/読み込みの改良](https://blog.4d.com/ja/4d-view-pro-excel-import-export-update/) ![](https://img.shields.io/badge/20%20R8-E23089)
+61. [カスタム関数のインポートをサポート](https://blog.4d.com/ja/4d-view-pro-import-callback-ensures-custom-functions-are-fully-resolved/) ![](https://img.shields.io/badge/20%20R9-E23089)
 
 <img width="40" height="200" alt="image31" src="https://github.com/user-attachments/assets/7ba25f4d-61c5-4843-af56-4a25e11b3d14" />
 
