@@ -112,32 +112,32 @@
  
 <img width="40" height="360" alt="image15" src="https://github.com/user-attachments/assets/581a6528-a922-4991-bef4-9d44f1e9237b" />
 
-75. コードライブチェッカー
-76. シングルトン
-77. Compiler_メソッドを必要としないメソッドパラメーターの宣言
-78. 変数やプロパティを宣言と同時に初期化
-79. 可変長引数関数の宣言
-80. Try, Catch, Throw構文で例外処理
-81. グローバルスタンプによるデータ変更の追跡
-82. コレクション型のマルチソート
-83. コレクション型およびオブジェクト型を参照で比較
-84. 共有クラス
-85. Sessionでクライアント/サーバーセッション管理
-86. 共通のSessionストレージにアクセス
-87. セッション権限のデバッグ
-88. プロセス管理の改良
-89. シングルユーザー環境でセッション管理のデバッグ
-90. フォーミュラ評価コンテキストの指定
-91. 各種ログを設定ファイルで管理
-92. PHPインタプリターの切り離し
-93. 日付フォーマットおよび時間フォーマットのカスタマイズ
-94. ストラクチャ定義をHTML形式で書き出し
-95. フォームオブジェクトのデータソースを動的に管理
-96. 16新数文字列を整数に変換 する関数
-97. Trim関数
-98. バージョン管理に適した分割カタログファイル
-99. 変数の直接型指定
-100. 使い易くなったデバッガ
+75. [コードライブチェッカー](https://blog.4d.com/ja/introducing-code-live-checker-elevating-code-quality-in-4d-development/) ![](https://img.shields.io/badge/20%20R4-E23089)
+76. [セッションシングルトン](https://blog.4d.com/ja/introducing-session-singletons/) ![](https://img.shields.io/badge/20%20R7-E23089)  
+77. [ Compiler_メソッドを必要としないメソッドパラメーターの宣言](https://blog.4d.com/ja/streamlined-method-parameter-declarations/) ![](https://img.shields.io/badge/20%20R4-E23089)
+78. [変数やプロパティを宣言と同時に初期化](https://blog.4d.com/ja/class-property-declarations-and-assignments-on-a-single-line/) ![](https://img.shields.io/badge/20%20R5-E23089)
+79. [可変長引数関数の宣言](https://blog.4d.com/ja/a-fresh-approach-to-writing-variadic-functions/) ![](https://img.shields.io/badge/20%20R3-E23089)
+80. [Try, Catch, Throw構文で例外処理](https://blog.4d.com/ja/try-catch-code-blocks-unveiled/) ![](https://img.shields.io/badge/20%20R5-E23089)
+81. [グローバルスタンプによるデータ変更の追跡](https://blog.4d.com/ja/track-data-changes-in-your-database/) ![](https://img.shields.io/badge/20%20R3-E23089)
+82. [コレクション型のマルチソート](https://blog.4d.com/ja/sync-several-collections-with-this-new-function/) ![](https://img.shields.io/badge/20%20R3-E23089)
+83. [コレクション型およびオブジェクト型を参照で比較](https://blog.4d.com/ja/easy-reference-comparison-of-objects-collections/) ![](https://img.shields.io/badge/20%20R6-E23089)
+84. [共有クラス](https://blog.4d.com/ja/shared-classes/) ![](https://img.shields.io/badge/20%20R5-E23089)
+85. [クライアント/サーバー用のリモートセッションオブジェクト](https://blog.4d.com/ja/new-4d-remote-session-object-with-client-server-connection-and-stored-procedure/) ![](https://img.shields.io/badge/20%20R5-E23089)
+86. [Sessionストレージにアクセス](https://blog.4d.com/ja/enhanced-session-storage-access/) ![](https://img.shields.io/badge/20%20R6-E23089)
+87. [進行中のセッション情報を一括取得](https://blog.4d.com/ja/track-audit-optimize-take-control-of-your-4d-web-sessions/) ![](https://img.shields.io/badge/21-3B69E9)
+88. [プロセス管理の改良](https://blog.4d.com/ja/exciting-enhancements-for-managing-processes-and-sessions/) ![](https://img.shields.io/badge/20%20R7-E23089)
+89. [シングルユーザー環境でセッション管理のデバッグ](https://blog.4d.com/ja/permissions-inspect-session-privileges-for-easy-debugging/) ![](https://img.shields.io/badge/20%20R3-E23089)
+90. [ホストの実行コンテキストでフォーミュラを評価](https://blog.4d.com/ja/new-option-for-formulas-from-string/) ![](https://img.shields.io/badge/20%20R3-E23089)
+91. [ログ設定をバックアップ設定ファイルで管理](https://blog.4d.com/ja/enhancing-the-journal-management/) ![](https://img.shields.io/badge/20%20R3-E23089)
+92. [PHPインタプリターの切り離し](https://blog.4d.com/ja/deprecation-of-php-commands-removal-of-4d-built-in-php-interpreter/) ![](https://img.shields.io/badge/20%20R3-E23089)
+93. [日付フォーマットおよび時間フォーマットのカスタマイズ](https://blog.4d.com/ja/tailored-customization-for-dates-and-times/) ![](https://img.shields.io/badge/20%20R4-E23089)
+94. [ストラクチャ定義をHTML形式で書き出し](https://blog.4d.com/ja/structure-definition-export-in-html/) ![](https://img.shields.io/badge/20%20R4-E23089)
+95. [フォームオブジェクトのデータソースを動的に管理](https://blog.4d.com/ja/building-forms-on-the-fly-with-new-data-source-commands/) ![](https://img.shields.io/badge/20%20R10-E23089)
+96. [16新数文字列を整数に変換する関数](https://blog.4d.com/ja/convert-numbers-with-ease-enhanced-string-and-num-commands/) ![](https://img.shields.io/badge/21-3B69E9)
+97. [Trim関数](https://blog.4d.com/ja/trim-trim-start-and-trim-end-in-4d/) ![](https://img.shields.io/badge/21-3B69E9)
+98. [バージョン管理に適した分割カタログファイル](https://blog.4d.com/ja/improved-catalog-management-in-version-control-systems/) ![](https://img.shields.io/badge/20%20R5-E23089)
+99. [変数の直接型指定](https://blog.4d.com/ja/enhancing-compilation-with-direct-typing-in-4d/) ![](https://img.shields.io/badge/20%20R7-E23089)
+100. [使い易くなったデバッガ](https://blog.4d.com/ja/enhancing-the-debugging-experience/) ![](https://img.shields.io/badge/20%20R8-E23089)
 
 <img width="40" height="200" alt="image25" src="https://github.com/user-attachments/assets/92fdb2f4-89cd-44af-bda1-07dfe68715c5" />
 
