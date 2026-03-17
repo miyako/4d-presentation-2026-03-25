@@ -14,3 +14,9 @@
 7. [TCPクライアントおよびTCPサーバー](https://blog.4d.com/ja/new-class-to-handle-incoming-tcp-connections/) ![](https://img.shields.io/badge/20%20R9-E23089)
 8. [UDPクライアントおよびUDPサーバー](https://blog.4d.com/ja/new-class-to-perform-udp-communications/) ![](https://img.shields.io/badge/20%20R10-E23089)
 9. [HTTPエージェントで連続HTTPリクエストの最適化](https://blog.4d.com/ja/managing-http-requests-with-http-agents/) ![](https://img.shields.io/badge/20%20R6-E23089)
+
+<img width="40" height="auto" alt="image18" src="https://github.com/user-attachments/assets/b2614a7f-6012-4566-82b4-9004396dc4ed" />
+
+10. [エンティティライフサイクルイベント](https://blog.4d.com/ja/orda-handle-an-event-driven-logic-during-database-operations/) ![](https://img.shields.io/badge/21-3B69E9)
+11. [エンティティセレクションのフィルターイベント](https://blog.4d.com/ja/orda-restrict-data-to-relevant-criteria/) ![](https://img.shields.io/badge/20%20R5-E23089) 
+12. [エンティティセレクションの歯抜けを解消](https://blog.4d.com/ja/orda-say-goodbye-to-empty-spaces-in-your-entity-selections/) ![](https://img.shields.io/badge/20%20R6-E23089)
