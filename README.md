@@ -36,3 +36,14 @@
 20. [オブジェクト型フィールドをクラスで定義](https://blog.4d.com/ja/stricter-class-based-typing-for-objects/) ![](https://img.shields.io/badge/20%20R10-E23089)
 21. [新規レコードのセレクション混入を抑止](https://blog.4d.com/ja/4d-keeps-your-selections-of-records-consistent-regarding-deletion-of-records/) ![](https://img.shields.io/badge/21-3B69E9)
 22. [UUIDv7サポート](https://blog.4d.com/ja/sort-uuids-with-version-7/) ![](https://img.shields.io/badge/20%20R10-E23089)
+
+<img width="40" height="320" alt="image12" src="https://github.com/user-attachments/assets/92ec27b5-8153-43d3-979b-eb3acf8e9ee4" />
+
+23. [依存関係マネージャー](https://blog.4d.com/ja/integrate-4d-components-directly-from-github/) ![](https://img.shields.io/badge/20%20R6-E23089)
+24. [標準コンポーネントのインストールは任意](https://blog.4d.com/ja/take-control-of-standard-4d-components/) ![](https://img.shields.io/badge/21-3B69E9)
+25. [4Dバージョンに追随する依存関係](https://blog.4d.com/ja/follow-4d-version-a-smarter-way-to-manage-your-dependencies/) ![](https://img.shields.io/badge/20%20R9-E23089)
+26. [GitHubコンポーネントの依存関係とバージョン管理](https://blog.4d.com/ja/managing-project-dependencies-has-never-been-easier/) ![](https://img.shields.io/badge/20%20R8-E23089)
+27. [再帰的な依存関係の解決と管理](https://blog.4d.com/ja/recursive-dependency-management-smarter-deeper-safer/) ![](https://img.shields.io/badge/20%20R10-E23089)
+28. [ローカルコンポーネントの追加と削除](https://blog.4d.com/ja/adding-and-removing-github-and-local-components-made-easy/) ![](https://img.shields.io/badge/20%20R7-E23089)
+29. [名前空間を介してコンポーネント間でクラスを参照](https://blog.4d.com/ja/using-classes-across-components/) ![](https://img.shields.io/badge/20%20R6-E23089)
+30. [Mach-OバンドルアーキテクチャーのコンポーネントとApple公証](https://blog.4d.com/ja/notarization-on-macos-changes-to-component-structure/) ![](https://img.shields.io/badge/20%20R8-E23089)
