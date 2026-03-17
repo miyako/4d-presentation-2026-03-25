@@ -98,7 +98,7 @@
 64. [クライアント/サーバー暗号化通信に使用する証明書の認証局をチェック](https://blog.4d.com/ja/encryption-authentication-certificate-authority-validation/) ![](https://img.shields.io/badge/20%20R7-E23089)
 65. [Windows証明書ストアのTLS証明書を使用](https://blog.4d.com/ja/https-requests-now-support-windows-certificate-store/) ![](https://img.shields.io/badge/21-3B69E9)
 66. [REST認証のデフォルトは強制ログインモード](https://blog.4d.com/ja/force-login-becomes-default-for-all-rest-auth/) ![](https://img.shields.io/badge/20%20R6-E23089)
-67. BLOBやテキストをCryptoKeyで署名  ![](https://img.shields.io/badge/20%20R8-E23089)
+67. [BLOBをCryptoKeyで署名](https://developer.4d.com/docs/ja/21/API/CryptoKeyClass#sign)  ![](https://img.shields.io/badge/20%20R8-E23089)
 68. [RESTと4DACTIONのセッション管理を統一](https://blog.4d.com/ja/track-audit-optimize-take-control-of-your-4d-web-sessions/) ![](https://img.shields.io/badge/21-3B69E9)
 69. [フォーミュラの安全なペースト](https://blog.4d.com/ja/smarter-copy-paste-to-protect-your-data/) ![](https://img.shields.io/badge/20%20R10-E23089)
 70. [各種ライブラリのアップデート](https://developer.4d.com/docs/ja/21/Notes/updates#ライブラリの一覧-4d-21-lts) ![](https://img.shields.io/badge/21-3B69E9)
