@@ -31,3 +31,8 @@
 18. [イベントレポート](https://blog.4d.com/ja/events-report-in-4d-qodly-pro-see-every-interactions-at-a-glance/) ![](https://img.shields.io/badge/21-3B69E9)
 19. [デザイン画面のズーム](https://blog.4d.com/ja/4d-qodly-pro-page-zoom-controls/) ![](https://img.shields.io/badge/21-3B69E9)
 
+<img width="40" height="200" alt="image29" src="https://github.com/user-attachments/assets/23b9d47d-f72e-4ee0-8f78-d9462872c620" />
+
+20. [オブジェクト型フィールドをクラスで定義](https://blog.4d.com/ja/stricter-class-based-typing-for-objects/) ![](https://img.shields.io/badge/20%20R10-E23089)
+21. [新規レコードのセレクション混入を抑止](https://blog.4d.com/ja/4d-keeps-your-selections-of-records-consistent-regarding-deletion-of-records/) ![](https://img.shields.io/badge/21-3B69E9)
+22. [UUIDv7サポート](https://blog.4d.com/ja/sort-uuids-with-version-7/) ![](https://img.shields.io/badge/20%20R10-E23089)
