@@ -57,3 +57,56 @@
 35. [Googleユーザーおよびディレクトリの情報](https://blog.4d.com/ja/4d-netkit-get-user-information-from-google/) ![](https://img.shields.io/badge/20%20R8-E23089)
 36. [GoogleおよびMicrosoft 365カレンダー](https://blog.4d.com/ja/managing-calendar-events-with-microsoft-365-or-google-in-4d-create-update-delete/) ![](https://img.shields.io/badge/20%20R10-E23089)
 37. [OAuth2認証のサポート強化とOpenID Connect](https://blog.4d.com/ja/4d-netkit-secure-openid-authentication-with-nonce-attribute/) ![](https://img.shields.io/badge/21-3B69E9)
+
+<img width="40" height="200" alt="image27" src="https://github.com/user-attachments/assets/cc82557c-f231-4ac8-828d-376facd6506a" />
+
+38. HTTPカスタムレスポンスルール
+39. ルーティングを構造的に定義するためのHTTPリクエストハンドラー
+40. ワンタイムパスコード
+41. WebSocketクライアント
+42. WebSocketクライアントヘッダーのカスタマイズ
+43. HTTPレスポンスを定義するための OutgoingMessageクラス
+44. ライセンス消費を制限するための強制ログインモード
+ 
+<img width="40" height="320" alt="image19" src="https://github.com/user-attachments/assets/bb13d445-d46b-407a-b1e8-e0a0ccd1028f" />
+
+45. AIアシスタントの統合
+46. 欧州電子請求書規格に準拠
+47. セクション管理の改良
+48. ページサイズのワンステップ設定
+49. テキストボックスおよびピクチャの回り込みテキスト
+50. 表作成およびセル統合ツールの改良
+51. 表サイズの制限を廃止
+52. 空のデータソースを管理
+53. 非表示の罫線を一時的に表示
+54. フォーミュラ名の定義
+55. コマンドシンタックスの改良
+56. メール本文の表示を改善するホワイトスペース文字のオプション
+
+<img width="40" height="200" alt="image30" src="https://github.com/user-attachments/assets/7a6eaff6-4876-40c3-bb1e-02d62fa69fc4" />
+
+57. 圧縮ファイル形式
+58. カスタム関数の改良
+59. SpreadJS 16.2アップデートに伴うリボンツールの改良
+60. エクセル書き出し/読み込みの改良
+61. カスタム関数の インポートをサポート
+
+<img width="40" height="200" alt="image31" src="https://github.com/user-attachments/assets/7ba25f4d-61c5-4843-af56-4a25e11b3d14" />
+
+62. クライアント/サーバー暗号化通信に使用する証明書を自動的に発行
+63. TLS証明書はECDSAアルゴリズムをサポート
+64. クライアント/サーバー暗号化通信に使用する証明書の認証局をチェック
+65. Windows証明書ストアのTLS証明書を使用
+66. REST認証のデフォルトは強制ログインモード
+67. BLOBやテキストをCryptoKeyで署名
+68. RESTと4DACTIONのセッション管理を統一
+69. フォーミュラの安全なペースト
+70. 各種ライブラリのアップデート
+
+<img width="40" height="200" alt="image32" src="https://github.com/user-attachments/assets/dc6baade-4e09-48bb-be4b-8e5a25356903" />
+
+71. グローバルエラーハンドリング
+72. 非推奨ランゲージに警告を表示
+73. Formオブジェクトをクラスで定義
+74. FORM EDITの改良
+
