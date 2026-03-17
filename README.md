@@ -66,7 +66,7 @@
 41. [WebSocketクライアント](https://blog.4d.com/ja/websocket-client/) ![](https://img.shields.io/badge/20%20R2-E23089)
 42. [WebSocketクライアントヘッダーのカスタマイズ](https://blog.4d.com/ja/injecting-custom-data-in-websocket-client-headers/) ![](https://img.shields.io/badge/20%20R3-E23089)
 43. [HTTPレスポンスを定義するための OutgoingMessageクラス](https://blog.4d.com/ja/master-http-requests-with-4d-request-handlers/) ![](https://img.shields.io/badge/20%20R8-E23089)
-44. [ライセンス消費を制限するための強制ログインモード](https://blog.4d.com/ja/force-login-becomes-default-for-all-rest-auth/) ![](https://img.shields.io/badge/20%20R6-E23089)
+44. [ライセンス消費を制限するための強制ログインモード](https://blog.4d.com/ja/improved-4d-client-licenses-usage-with-qodly-studio-for-4d/) ![](https://img.shields.io/badge/20%20R5-E23089)
  
 <img width="40" height="320" alt="image19" src="https://github.com/user-attachments/assets/bb13d445-d46b-407a-b1e8-e0a0ccd1028f" />
 
