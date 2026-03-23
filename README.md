@@ -9,6 +9,8 @@
 - [**ブログ**: 新しいデータソースコマンドを使った動的なフォーム作成](https://blog.4d.com/ja/building-forms-on-the-fly-with-new-data-source-commands/)
 - [`SetDataSourceFormula.zip`](https://github.com/4D-JP/HDI/releases/download/20r10/HDI_SetDataSourceFormula.zip)
 
+[**シングルトン**: プロセス間で共有](https://github.com/miyako/DEMO_21_LTS_Singleton)
+
  <img width="40" height="auto" alt="image14" src="https://github.com/user-attachments/assets/7c4cece7-1fa3-456b-8866-43963f3812bc" />
 
 1. [AIKitコンポーネント](https://blog.4d.com/ja/unlock-the-power-of-ai-with-4d-aikit-automate-create-and-innovate/) ![](https://img.shields.io/badge/20%20R9-E23089)
