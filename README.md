@@ -5,6 +5,8 @@
 - 🥈	[`LiquidAI/LFM2.5-1.2B-JP`](https://huggingface.co/LiquidAI/LFM2.5-1.2B-JP)
 - 🥉	[`Rakuten/RakutenAI-2.0-mini-instruct`](https://huggingface.co/Rakuten/RakutenAI-2.0-mini-instruct)
 
+[**ORDAイベント**: 整合性を保証](https://github.com/miyako/Demo-ORDA-events)
+
 [**4Dコーディング**:  入力ミスを即時チェック](https://github.com/miyako/DEMO_21_LTS_Code_Evolution)
 - [**ブログ**: 新しいデータソースコマンドを使った動的なフォーム作成](https://blog.4d.com/ja/building-forms-on-the-fly-with-new-data-source-commands/)
 - [`SetDataSourceFormula.zip`](https://github.com/4D-JP/HDI/releases/download/20r10/HDI_SetDataSourceFormula.zip)
