@@ -1,5 +1,7 @@
 # 4d-presentation-2026-03-25
 
+[**AIKIT**: 情報処理をスマートに](https://github.com/miyako/Demo-Tasks-AI)
+
 [**AIKIT**: 検索をインテリジェントに](https://github.com/miyako/4D-real-restate-AI)
 - 🏅	[`SakanaAI/TinySwallow-1.5B-Instruct`](https://huggingface.co/SakanaAI/TinySwallow-1.5B-Instruct)
 - 🥈	[`LiquidAI/LFM2.5-1.2B-JP`](https://huggingface.co/LiquidAI/LFM2.5-1.2B-JP)
