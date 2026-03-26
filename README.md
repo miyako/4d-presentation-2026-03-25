@@ -7,18 +7,24 @@
 - 🥈	[`LiquidAI/LFM2.5-1.2B-JP`](https://huggingface.co/LiquidAI/LFM2.5-1.2B-JP)
 - 🥉	[`Rakuten/RakutenAI-2.0-mini-instruct`](https://huggingface.co/Rakuten/RakutenAI-2.0-mini-instruct)
 
-③ [**QUIC**: ネットワークをタフに]()
+③ **QUIC**: ネットワークをタフに
 
-[**ORDAイベント**: 整合性を保証](https://github.com/miyako/Demo-ORDA-events)
+④ **Qodly Pro**: ハイブリッドアプローチ
 
+⑤ [**ORDAイベント**: 整合性を保証](https://github.com/miyako/Demo-ORDA-events)
+- [**ブログ**: データベース操作中にイベント駆動ロジックを処理する](https://blog.4d.com/ja/orda-handle-an-event-driven-logic-during-database-operations/)
+- [**ブログ**: コンストラクターと`touched`イベント – ネットワークを介した動作の詳細](https://blog.4d.com/ja/orda-events-on-data-detailed-behaviour-through-a-network/)
+- [**ブログ**: 新しい`touched`イベント](https://blog.4d.com/ja/orda-get-started-with-the-touched-event/)
+- [**ブログ**: 取得データを制限する方法](https://blog.4d.com/ja/orda-restrict-data-to-relevant-criteria/)
+ 
 ⑥ [**コンポーネント**: モジュール開発](https://github.com/miyako/WeatherComponent)
 - [**ブログ**: コンポーネント管理の簡素化](https://blog.4d.com/ja/simplifying-component-management-in-4d/)
-- [ホストプロジェクトからのコンポーネントクラスへのアクセス](https://blog.4d.com/ja/access-your-component-classes-from-your-host-project/)
-- [GitHubから直接4Dコンポーネントを統合する](https://blog.4d.com/ja/integrate-4d-components-directly-from-github/)
-- [Githubコンポーネント/ローカルコンポーネントの追加と削除が簡単に](https://blog.4d.com/ja/adding-and-removing-github-and-local-components-made-easy/)
-- [プロジェクト依存関係の管理がかつてないほど簡単に](https://blog.4d.com/ja/managing-project-dependencies-has-never-been-easier/)
-- [4Dバージョンに追随する: 依存関係をよりスマートに管理する方法](https://blog.4d.com/ja/follow-4d-version-a-smarter-way-to-manage-your-dependencies/)
-- [再帰的依存関係管理: より賢く、より深く、より安全に](https://blog.4d.com/ja/recursive-dependency-management-smarter-deeper-safer/)
+- [**ブログ**: ホストプロジェクトからのコンポーネントクラスへのアクセス](https://blog.4d.com/ja/access-your-component-classes-from-your-host-project/)
+- [**ブログ**: GitHubから直接4Dコンポーネントを統合する](https://blog.4d.com/ja/integrate-4d-components-directly-from-github/)
+- [**ブログ**: Githubコンポーネント/ローカルコンポーネントの追加と削除が簡単に](https://blog.4d.com/ja/adding-and-removing-github-and-local-components-made-easy/)
+- [**ブログ**: プロジェクト依存関係の管理がかつてないほど簡単に](https://blog.4d.com/ja/managing-project-dependencies-has-never-been-easier/)
+- [**ブログ**: 4Dバージョンに追随する: 依存関係をよりスマートに管理する方法](https://blog.4d.com/ja/follow-4d-version-a-smarter-way-to-manage-your-dependencies/)
+- [**ブログ**: 再帰的依存関係管理: より賢く、より深く、より安全に](https://blog.4d.com/ja/recursive-dependency-management-smarter-deeper-safer/)
 
 ⑦ [**Write Pro**: 欧州電子請求書](https://github.com/miyako/HDI_4DWP_GenerateFacturX)
 - [**ブログ**: 電子インボイスの作成](https://blog.4d.com/ja/4d-write-pro-electronic-invoice-generation/)
