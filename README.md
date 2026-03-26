@@ -21,7 +21,7 @@
 - [**ブログ**: コンポーネント管理の簡素化](https://blog.4d.com/ja/simplifying-component-management-in-4d/)
 - [**ブログ**: ホストプロジェクトからのコンポーネントクラスへのアクセス](https://blog.4d.com/ja/access-your-component-classes-from-your-host-project/)
 - [**ブログ**: GitHubから直接4Dコンポーネントを統合する](https://blog.4d.com/ja/integrate-4d-components-directly-from-github/)
-- [**ブログ**: Githubコンポーネント/ローカルコンポーネントの追加と削除が簡単に](https://blog.4d.com/ja/adding-and-removing-github-and-local-components-made-easy/)
+- [**ブログ**: GitHubコンポーネント/ローカルコンポーネントの追加と削除が簡単に](https://blog.4d.com/ja/adding-and-removing-github-and-local-components-made-easy/)
 - [**ブログ**: プロジェクト依存関係の管理がかつてないほど簡単に](https://blog.4d.com/ja/managing-project-dependencies-has-never-been-easier/)
 - [**ブログ**: 4Dバージョンに追随する: 依存関係をよりスマートに管理する方法](https://blog.4d.com/ja/follow-4d-version-a-smarter-way-to-manage-your-dependencies/)
 - [**ブログ**: 再帰的依存関係管理: より賢く、より深く、より安全に](https://blog.4d.com/ja/recursive-dependency-management-smarter-deeper-safer/)
