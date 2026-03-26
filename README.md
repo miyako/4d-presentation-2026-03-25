@@ -31,7 +31,7 @@
 
 ⑧ [**4Dコーディング**:  入力ミスを即時チェック](https://github.com/miyako/DEMO_21_LTS_Code_Evolution)
 - [**ブログ**: 新しいデータソースコマンドを使った動的なフォーム作成](https://blog.4d.com/ja/building-forms-on-the-fly-with-new-data-source-commands/)
-- [`SetDataSourceFormula.zip`](https://github.com/4D-JP/HDI/releases/download/20r10/HDI_SetDataSourceFormula.zip)
+- [`SetDataSourceFormula`](https://github.com/4D-JP/HDI/releases/download/20r10/HDI_SetDataSourceFormula.zip)
 
 ⑨ [**シングルトン**: プロセス間で共有](https://github.com/miyako/DEMO_21_LTS_Singleton)
 - [**ブログ**: シングルトン](https://blog.4d.com/ja/singletons-in-4d/)
