@@ -17,7 +17,7 @@
 - [**ブログ**: 新しい`touched`イベント](https://blog.4d.com/ja/orda-get-started-with-the-touched-event/)
 - [**ブログ**: 取得データを制限する方法](https://blog.4d.com/ja/orda-restrict-data-to-relevant-criteria/)
  
-⑥ [**コンポーネント**: モジュール開発](https://github.com/miyako/WeatherComponent)
+⑥ [**コンポーネント**: モジュール開発](https://github.com/miyako/4d-example-WeatherComponent)
 - [**ブログ**: コンポーネント管理の簡素化](https://blog.4d.com/ja/simplifying-component-management-in-4d/)
 - [**ブログ**: ホストプロジェクトからのコンポーネントクラスへのアクセス](https://blog.4d.com/ja/access-your-component-classes-from-your-host-project/)
 - [**ブログ**: GitHubから直接4Dコンポーネントを統合する](https://blog.4d.com/ja/integrate-4d-components-directly-from-github/)
