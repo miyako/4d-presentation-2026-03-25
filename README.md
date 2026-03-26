@@ -1,19 +1,36 @@
 # 4d-presentation-2026-03-25
 
-[**AIKIT**: 情報処理をスマートに](https://github.com/miyako/Demo-Tasks-AI)
+① [**AIKIT**: 情報処理をスマートに](https://github.com/miyako/Demo-Tasks-AI)
 
-[**AIKIT**: 検索をインテリジェントに](https://github.com/miyako/4D-real-restate-AI)
+② [**AIKIT**: 検索をインテリジェントに](https://github.com/miyako/4D-real-restate-AI)
 - 🏅	[`SakanaAI/TinySwallow-1.5B-Instruct`](https://huggingface.co/SakanaAI/TinySwallow-1.5B-Instruct)
 - 🥈	[`LiquidAI/LFM2.5-1.2B-JP`](https://huggingface.co/LiquidAI/LFM2.5-1.2B-JP)
 - 🥉	[`Rakuten/RakutenAI-2.0-mini-instruct`](https://huggingface.co/Rakuten/RakutenAI-2.0-mini-instruct)
 
+③ [**QUIC**: ネットワークをタフに]()
+
 [**ORDAイベント**: 整合性を保証](https://github.com/miyako/Demo-ORDA-events)
 
-[**4Dコーディング**:  入力ミスを即時チェック](https://github.com/miyako/DEMO_21_LTS_Code_Evolution)
+⑥ [**コンポーネント**: モジュール開発](https://github.com/miyako/WeatherComponent)
+- [**ブログ**: コンポーネント管理の簡素化](https://blog.4d.com/ja/simplifying-component-management-in-4d/)
+- [ホストプロジェクトからのコンポーネントクラスへのアクセス](https://blog.4d.com/ja/access-your-component-classes-from-your-host-project/)
+- [GitTHubから直接4Dコンポーネントを統合する](https://blog.4d.com/ja/integrate-4d-components-directly-from-github/)
+- [Githubコンポーネント/ローカルコンポーネントの追加と削除が簡単に](https://blog.4d.com/ja/adding-and-removing-github-and-local-components-made-easy/)
+- [プロジェクト依存関係の管理がかつてないほど簡単に](https://blog.4d.com/ja/managing-project-dependencies-has-never-been-easier/)
+- [4Dバージョンに追随する: 依存関係をよりスマートに管理する方法](https://blog.4d.com/ja/follow-4d-version-a-smarter-way-to-manage-your-dependencies/)
+- [再帰的依存関係管理: より賢く、より深く、より安全に](https://blog.4d.com/ja/recursive-dependency-management-smarter-deeper-safer/)
+
+⑦ [**Write Pro**: 欧州電子請求書](https://github.com/miyako/HDI_4DWP_GenerateFacturX)
+- [**ブログ**: 電子インボイスの作成](https://blog.4d.com/ja/4d-write-pro-electronic-invoice-generation/)
+
+⑧ [**4Dコーディング**:  入力ミスを即時チェック](https://github.com/miyako/DEMO_21_LTS_Code_Evolution)
 - [**ブログ**: 新しいデータソースコマンドを使った動的なフォーム作成](https://blog.4d.com/ja/building-forms-on-the-fly-with-new-data-source-commands/)
 - [`SetDataSourceFormula.zip`](https://github.com/4D-JP/HDI/releases/download/20r10/HDI_SetDataSourceFormula.zip)
 
-[**シングルトン**: プロセス間で共有](https://github.com/miyako/DEMO_21_LTS_Singleton)
+⑨ [**シングルトン**: プロセス間で共有](https://github.com/miyako/DEMO_21_LTS_Singleton)
+- [**ブログ**: シングルトン](https://blog.4d.com/ja/singletons-in-4d/)
+- [**ブログ**: シングルトンのRESTとQodlyサポート](https://blog.4d.com/ja/rest-and-qodly-support-of-singletons/)
+- [`Singletons`](https://github.com/4D-JP/HDI/releases/download/20r6/HDI_Singletons.zip)
 
  <img width="40" height="auto" alt="image14" src="https://github.com/user-attachments/assets/7c4cece7-1fa3-456b-8866-43963f3812bc" />
 
