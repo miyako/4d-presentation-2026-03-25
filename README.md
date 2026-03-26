@@ -14,7 +14,7 @@
 ⑥ [**コンポーネント**: モジュール開発](https://github.com/miyako/WeatherComponent)
 - [**ブログ**: コンポーネント管理の簡素化](https://blog.4d.com/ja/simplifying-component-management-in-4d/)
 - [ホストプロジェクトからのコンポーネントクラスへのアクセス](https://blog.4d.com/ja/access-your-component-classes-from-your-host-project/)
-- [GitTHubから直接4Dコンポーネントを統合する](https://blog.4d.com/ja/integrate-4d-components-directly-from-github/)
+- [GitHubから直接4Dコンポーネントを統合する](https://blog.4d.com/ja/integrate-4d-components-directly-from-github/)
 - [Githubコンポーネント/ローカルコンポーネントの追加と削除が簡単に](https://blog.4d.com/ja/adding-and-removing-github-and-local-components-made-easy/)
 - [プロジェクト依存関係の管理がかつてないほど簡単に](https://blog.4d.com/ja/managing-project-dependencies-has-never-been-easier/)
 - [4Dバージョンに追随する: 依存関係をよりスマートに管理する方法](https://blog.4d.com/ja/follow-4d-version-a-smarter-way-to-manage-your-dependencies/)
