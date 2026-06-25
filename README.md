@@ -69,13 +69,13 @@
 18. [イベントレポート](https://blog.4d.com/ja/events-report-in-4d-qodly-pro-see-every-interactions-at-a-glance/) ![](https://img.shields.io/badge/21-3B69E9)
 19. [デザイン画面のズーム](https://blog.4d.com/ja/4d-qodly-pro-page-zoom-controls/) ![](https://img.shields.io/badge/21-3B69E9)
 
-<img width="40" height="200" alt="image29" src="https://github.com/user-attachments/assets/23b9d47d-f72e-4ee0-8f78-d9462872c620" />
+<img width="40" height="auto" alt="image29" src="https://github.com/user-attachments/assets/23b9d47d-f72e-4ee0-8f78-d9462872c620" />
 
 20. [オブジェクト型フィールドをクラスで定義](https://blog.4d.com/ja/stricter-class-based-typing-for-objects/) ![](https://img.shields.io/badge/20%20R10-E23089)
 21. [新規レコードのセレクション混入を抑止](https://blog.4d.com/ja/4d-keeps-your-selections-of-records-consistent-regarding-deletion-of-records/) ![](https://img.shields.io/badge/21-3B69E9)
 22. [UUIDv7サポート](https://blog.4d.com/ja/sort-uuids-with-version-7/) ![](https://img.shields.io/badge/20%20R10-E23089)
 
-<img width="40" height="320" alt="image12" src="https://github.com/user-attachments/assets/92ec27b5-8153-43d3-979b-eb3acf8e9ee4" />
+<img width="40" height="auto" alt="image12" src="https://github.com/user-attachments/assets/92ec27b5-8153-43d3-979b-eb3acf8e9ee4" />
 
 23. [依存関係マネージャー](https://blog.4d.com/ja/integrate-4d-components-directly-from-github/) ![](https://img.shields.io/badge/20%20R6-E23089)
 24. [標準コンポーネントのインストールは任意](https://blog.4d.com/ja/take-control-of-standard-4d-components/) ![](https://img.shields.io/badge/21-3B69E9)
@@ -86,7 +86,7 @@
 29. [名前空間を介してコンポーネント間でクラスを参照](https://blog.4d.com/ja/using-classes-across-components/) ![](https://img.shields.io/badge/20%20R6-E23089)
 30. [Mach-OバンドルアーキテクチャーのコンポーネントとApple公証](https://blog.4d.com/ja/notarization-on-macos-changes-to-component-structure/) ![](https://img.shields.io/badge/20%20R8-E23089)
 
-<img width="40" height="200" alt="image28" src="https://github.com/user-attachments/assets/54965944-8855-4fbd-b74d-234da3abed28" />
+<img width="40" height="auto" alt="image28" src="https://github.com/user-attachments/assets/54965944-8855-4fbd-b74d-234da3abed28" />
 
 31. [Gmailメールボックスとラベルの管理](https://blog.4d.com/ja/4d-netkit-get-labels-and-emails-from-gmail/) ![](https://img.shields.io/badge/21-3B69E9)
 32. [Gmail下書きの管理](https://blog.4d.com/ja/4d-netkit-append-an-email-with-gmail/) ![](https://img.shields.io/badge/20%20R5-E23089)
@@ -96,7 +96,7 @@
 36. [GoogleおよびMicrosoft 365カレンダー](https://blog.4d.com/ja/managing-calendar-events-with-microsoft-365-or-google-in-4d-create-update-delete/) ![](https://img.shields.io/badge/20%20R10-E23089)
 37. [OAuth2認証のサポート強化とOpenID Connect](https://blog.4d.com/ja/4d-netkit-secure-openid-authentication-with-nonce-attribute/) ![](https://img.shields.io/badge/21-3B69E9)
 
-<img width="40" height="200" alt="image27" src="https://github.com/user-attachments/assets/cc82557c-f231-4ac8-828d-376facd6506a" />
+<img width="40" height="auto" alt="image27" src="https://github.com/user-attachments/assets/cc82557c-f231-4ac8-828d-376facd6506a" />
 
 38. [HTTPカスタムレスポンスルール](https://blog.4d.com/ja/new-way-to-control-your-http-responses/) ![](https://img.shields.io/badge/21-3B69E9)
 39. [ルーティングを構造的に定義するためのHTTPリクエストハンドラー](https://blog.4d.com/ja/master-http-requests-with-4d-request-handlers/) ![](https://img.shields.io/badge/20%20R8-E23089)
@@ -106,7 +106,7 @@
 43. [HTTPレスポンスを定義するための OutgoingMessageクラス](https://blog.4d.com/ja/master-http-requests-with-4d-request-handlers/) ![](https://img.shields.io/badge/20%20R8-E23089)
 44. [ライセンス消費を制限するための強制ログインモード](https://blog.4d.com/ja/improved-4d-client-licenses-usage-with-qodly-studio-for-4d/) ![](https://img.shields.io/badge/20%20R5-E23089)
  
-<img width="40" height="320" alt="image19" src="https://github.com/user-attachments/assets/bb13d445-d46b-407a-b1e8-e0a0ccd1028f" />
+<img width="40" height="auto" alt="image19" src="https://github.com/user-attachments/assets/bb13d445-d46b-407a-b1e8-e0a0ccd1028f" />
 
 45. [AIアシスタントの統合](https://blog.4d.com/ja/discover-your-ai-powered-writing-assistant-in-4d-write-pro/) ![](https://img.shields.io/badge/20%20R9-E23089)
 46. [欧州電子請求書規格に準拠](https://blog.4d.com/ja/4d-write-pro-electronic-invoice-generation/) ![](https://img.shields.io/badge/20%20R4-E23089)
@@ -121,7 +121,7 @@
 55. [コマンドシンタックスの改良](https://blog.4d.com/ja/4d-write-pro-commands-optimized-again/) ![](https://img.shields.io/badge/20%20R8-E23089)
 56. [メール本文の表示を改善するホワイトスペース文字のオプション](https://blog.4d.com/ja/4d-write-pro-more-display-options-for-anchored-pictures-and-text-boxes/) ![](https://img.shields.io/badge/20%20R5-E23089)
 
-<img width="40" height="200" alt="image30" src="https://github.com/user-attachments/assets/7a6eaff6-4876-40c3-bb1e-02d62fa69fc4" />
+<img width="40" height="auto" alt="image30" src="https://github.com/user-attachments/assets/7a6eaff6-4876-40c3-bb1e-02d62fa69fc4" />
 
 57. [圧縮ファイル形式](https://blog.4d.com/ja/new-4d-view-pro-format-file-sjs/) ![](https://img.shields.io/badge/20%20R2-E23089)
 58. [カスタム関数の改良](https://blog.4d.com/ja/4d-view-pro-enhancement-of-custom-functions/) ![](https://img.shields.io/badge/20%20R5-E23089)
@@ -129,7 +129,7 @@
 60. [エクセル書き出し/読み込みの改良](https://blog.4d.com/ja/4d-view-pro-excel-import-export-update/) ![](https://img.shields.io/badge/20%20R8-E23089)
 61. [カスタム関数のインポートをサポート](https://blog.4d.com/ja/4d-view-pro-import-callback-ensures-custom-functions-are-fully-resolved/) ![](https://img.shields.io/badge/20%20R9-E23089)
 
-<img width="40" height="200" alt="image31" src="https://github.com/user-attachments/assets/7ba25f4d-61c5-4843-af56-4a25e11b3d14" />
+<img width="40" height="auto" alt="image31" src="https://github.com/user-attachments/assets/7ba25f4d-61c5-4843-af56-4a25e11b3d14" />
 
 62. [クライアント/サーバー暗号化通信に使用する証明書を自動的に発行](https://blog.4d.com/ja/auto-generated-ssl-tls-certificates-for-client-server-communications/) ![](https://img.shields.io/badge/20%20R4-E23089)
 63. [TLS証明書はECDSAアルゴリズムをサポート](https://blog.4d.com/ja/ssl-tls-support-for-ecdsa-certificates/) ![](https://img.shields.io/badge/20%20R4-E23089)
@@ -141,14 +141,14 @@
 69. [フォーミュラの安全なペースト](https://blog.4d.com/ja/smarter-copy-paste-to-protect-your-data/) ![](https://img.shields.io/badge/20%20R10-E23089)
 70. [各種ライブラリのアップデート](https://developer.4d.com/docs/ja/21/Notes/updates#ライブラリの一覧-4d-21-lts) ![](https://img.shields.io/badge/21-3B69E9)
 
-<img width="40" height="200" alt="image32" src="https://github.com/user-attachments/assets/dc6baade-4e09-48bb-be4b-8e5a25356903" />
+<img width="40" height="auto" alt="image32" src="https://github.com/user-attachments/assets/dc6baade-4e09-48bb-be4b-8e5a25356903" />
 
 71. [特定のコンパイラー警告を抑制](https://blog.4d.com/ja/customize-global-warnings-generation/) ![](https://img.shields.io/badge/20%20R6-E23089)
 72. [非推奨ランゲージに警告を表示](https://blog.4d.com/ja/warnings-on-deprecated-language-elements/) ![](https://img.shields.io/badge/20%20R9-E23089)
 73. [Formオブジェクトをクラスで定義](https://blog.4d.com/ja/empower-your-development-process-with-your-forms/) ![](https://img.shields.io/badge/20%20R8-E23089)
 74. [FORM EDITの改良](https://blog.4d.com/ja/improved-form-edit-command-access-form-objects-easily/) ![](https://img.shields.io/badge/20%20R8-E23089)
  
-<img width="40" height="360" alt="image15" src="https://github.com/user-attachments/assets/581a6528-a922-4991-bef4-9d44f1e9237b" />
+<img width="40" height="auto" alt="image15" src="https://github.com/user-attachments/assets/581a6528-a922-4991-bef4-9d44f1e9237b" />
 
 75. [コードライブチェッカー](https://blog.4d.com/ja/introducing-code-live-checker-elevating-code-quality-in-4d-development/) ![](https://img.shields.io/badge/20%20R4-E23089)
 76. [セッションシングルトン](https://blog.4d.com/ja/introducing-session-singletons/) ![](https://img.shields.io/badge/20%20R7-E23089)  
@@ -177,7 +177,7 @@
 99. [変数の直接型指定](https://blog.4d.com/ja/enhancing-compilation-with-direct-typing-in-4d/) ![](https://img.shields.io/badge/20%20R7-E23089)
 100. [使い易くなったデバッガ](https://blog.4d.com/ja/enhancing-the-debugging-experience/) ![](https://img.shields.io/badge/20%20R8-E23089)
 
-<img width="40" height="200" alt="image25" src="https://github.com/user-attachments/assets/92fdb2f4-89cd-44af-bda1-07dfe68715c5" />
+<img width="40" height="auto" alt="image25" src="https://github.com/user-attachments/assets/92fdb2f4-89cd-44af-bda1-07dfe68715c5" />
 
 101. [Visual Studio Codeで4Dランゲージをフォーマット表示](https://blog.4d.com/ja/format-your-4d-code-in-visual-studio-code/) ![](https://img.shields.io/badge/20%20R2-E23089)
 102. [Visual Studio Codeに4Dドキュメンテーションを表示](https://blog.4d.com/ja/vs-code-extension-show-4d-documentation/) ![](https://img.shields.io/badge/20%20R3-E23089)
@@ -186,7 +186,7 @@
 105. [GitHub Codespacesサポート](https://blog.4d.com/ja/explore-github-codespaces-possibilities-with-4d/) ![](https://img.shields.io/badge/20%20R5-E23089)
 106. [Visual Studio Codeで4Dコードをデバッグ](https://blog.4d.com/ja/debugging-4d-code-directly-in-visual-studio-code/) ![](https://img.shields.io/badge/20%20R8-E23089)
 
-<img width="40" height="200" alt="image26" src="https://github.com/user-attachments/assets/ca01b569-b766-4592-8aef-352736cdb2e6" />
+<img width="40" height="auto" alt="image26" src="https://github.com/user-attachments/assets/ca01b569-b766-4592-8aef-352736cdb2e6" />
 
 107. [新しいウィンドウタイプ](https://blog.4d.com/ja/customize-app-appearance-with-new-windows-types/) ![](https://img.shields.io/badge/20%20R5-E23089)
 108. [ウィンドウアイコンのカスタマイズ](https://blog.4d.com/ja/define-a-different-icon-for-each-window/) ![](https://img.shields.io/badge/20%20R7-E23089)
